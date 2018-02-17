@@ -1,8 +1,8 @@
 class Libbsb < Formula
   desc "Tools to manipulate nautical charts in KAP format"
   homepage "http://libbsb.sourceforge.net"
-  url "https://github.com/nohal/libbsb/archive/v0.0.7.tar.gz"
-  sha256 "efe0ce89bf1ffd6371125bafba32333bcd0d002e72b6614583ca4dbdda48e56e"
+  url "https://github.com/nohal/libbsb/archive/v0.0.8.tar.gz"
+  sha256 "570a2e2e1ffbb03e000a9e3a873bdc567f961253fdd759628cc8e540870db979"
 
   depends_on "libtiff"
   depends_on "libpng"
