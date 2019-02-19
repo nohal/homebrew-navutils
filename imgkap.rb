@@ -1,8 +1,8 @@
 class Imgkap < Formula
   desc "Tool to create nautical charts in KAP format."
   homepage "https://github.com/nohal/imgkap"
-  url "https://github.com/nohal/imgkap/archive/v1.15.tar.gz"
-  sha256 "a9db2e8d76e59438e07dccb8c68bfe165f40af7c5ed1a7162268961762b64bed"
+  url "https://github.com/nohal/imgkap/archive/v1.16.tar.gz"
+  sha256 "38a9c3c267459088f7471dff2710a047aa6711a1c80fb442c854faa1151ae5d5"
 
   depends_on "freeimage"
 
