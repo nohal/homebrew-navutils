@@ -22,3 +22,13 @@ For more information refer to http://libbsb.sourceforge.net
 ```
 brew install nohal/navutils/libbsb
 ```
+
+## kplex
+A multiplexer for various NMEA 0183 interfaces.
+
+For more information refer to http://www.stripydog.com/kplex/
+
+### Installation
+```
+brew install nohal/navutils/kplex
+```
